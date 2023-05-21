@@ -13,4 +13,8 @@ src
 |       |__ index.jsx (entry point of feature Todo)
 |
 |__ App.js
+
+## Routing
+use version 5
+npm i react-router-dom@^5
 ```
